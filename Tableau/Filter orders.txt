@@ -1,0 +1,8 @@
+1. Extract Filters
+2. Data Source Filters
+3. Context Filter
+4. Fixed LOD expression
+5. Filter on Dimension
+6. INCLUDE/EXCLUDE
+7. Filter on Measurement
+8. Filter on Table Calculation

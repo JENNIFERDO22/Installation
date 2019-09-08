@@ -1,0 +1,31 @@
+python: 5 days
+- python-services: 1 days.
+- python- data structure: 2days.
+- python - database: 1 days (insert/delete/update data in python)
+
+aws: 8 days
+- s3: 2 days 
+- ec2: 1 days + debugg
+- redshift: 3 days.
+- lambda functions: 2 days
+
+messaging system: 3 days
+- kafka (aws/on premise): 3 days
+
+data pipeline: 2 days
+- airflow: 2 days
+
+spark (in python): 6 days
+- spark streaming: 3 days.
+- spark sql: 3 days.
+
+big data: EMR (aws)/cloudera: 15 days
+- overview big data: 4 days.
+- Impala: 2 days
+- pig: 3 days.
+- hive: 3 days.
+- map-reduce: 3 days.
+
+total: 38 days.
+
+-- DATA ANALYSIS AND ANALYTICS COURSE

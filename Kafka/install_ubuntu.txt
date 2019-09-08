@@ -1,0 +1,1 @@
+wget --no-cookies --no-check-certificate --header "cookie: gpw_e24=http%3a%2f%2fwww.oracle.com%2f; oraclelicense=accept-securebackup-cookie" ""

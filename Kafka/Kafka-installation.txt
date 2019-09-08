@@ -1,0 +1,5 @@
+https://medium.com/@shaaslam/installing-apache-kafka-on-windows-495f6f2fd3c8
+
+https://medium.com/@shaaslam/installing-apache-zookeeper-on-windows-45eda303e835
+
+file to run: C:\kafka_2.11-2.3.0\bin\windows
